@@ -1,11 +1,23 @@
-p {color:red}
-#second {color:blue}
-#third {color:green}
-#fourth {font-size: 28px}
-#fifth {font-size:12px}
-#sixth {text-align:center}
-#pete {font-weight: bold ;}
-#eighth {font-family: cursive}
-#ninth {font-size:30px; color:orange; font-weight:bold }
-.styledFont {color:green}
-#styledImage {border:3px black;border-style:inset}
+.jumbotron {
+	background-color: #428bca
+}
+
+.jumbotron h1 {
+	color:white;
+}
+
+p, h1, h4 {
+	font-family: 'Roboto Slab', serif;
+}
+
+#funText {
+	color: black;
+	font-size: 24px;
+	font-family: 'Roboto Slab', serif;
+}
+
+#box {
+	height: 100px;
+	width: 100px;
+	margin:auto;
+}
