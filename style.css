@@ -1,0 +1,11 @@
+p {color:red}
+#second {color:blue}
+#third {color:green}
+#fourth {font-size: 28px}
+#fifth {font-size:12px}
+#sixth {text-align:center}
+#pete {font-weight: bold ;}
+#eighth {font-family: cursive}
+#ninth {font-size:30px; color:orange; font-weight:bold }
+.styledFont {color:green}
+#styledImage {border:3px black;border-style:inset}
